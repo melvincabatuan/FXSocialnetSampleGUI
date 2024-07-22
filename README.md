@@ -1,2 +1,2 @@
 # Screenshot:
-![](https://github.com/melvincabatuan/SampleJavaFX/blob/master/Screenshot.PNG)
+![](https://github.com/melvincabatuan/FXSocialnetSampleGUI/blob/master/Screenshot.PNG)
